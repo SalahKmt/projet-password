@@ -40,3 +40,6 @@ Thumbs.db
 
 # Firebase
 /.firebase
+
+/node_modules
+/dist
